@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/testStructsDiaDTreino1/StudentStruct.cpp
+StudentStruct.h
+C:/Users/laion/CLionProjects/testStructsDiaDTreino1/StudentStruct.h
+
+C:/Users/laion/CLionProjects/testStructsDiaDTreino1/StudentStruct.h
+iostream
+-
+
+C:/Users/laion/CLionProjects/testStructsDiaDTreino1/main.cpp
+StudentStruct.h
+C:/Users/laion/CLionProjects/testStructsDiaDTreino1/StudentStruct.h
+

@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\test_one.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\test_one.dir/objects.a @CMakeFiles\test_one.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\test_one.dir/objects.a -Wl,--no-whole-archive  -o test_one.exe -Wl,--out-implib,libtest_one.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_one.dir\linklibs.rsp

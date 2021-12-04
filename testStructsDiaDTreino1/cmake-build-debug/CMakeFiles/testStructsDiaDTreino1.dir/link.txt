@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\testStructsDiaDTreino1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\testStructsDiaDTreino1.dir/objects.a @CMakeFiles\testStructsDiaDTreino1.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\testStructsDiaDTreino1.dir/objects.a -Wl,--no-whole-archive  -o testStructsDiaDTreino1.exe -Wl,--out-implib,libtestStructsDiaDTreino1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testStructsDiaDTreino1.dir\linklibs.rsp
