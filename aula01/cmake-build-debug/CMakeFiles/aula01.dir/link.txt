@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\aula01.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\aula01.dir/objects.a @CMakeFiles\aula01.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\aula01.dir/objects.a -Wl,--no-whole-archive  -o aula01.exe -Wl,--out-implib,libaula01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\aula01.dir\linklibs.rsp
