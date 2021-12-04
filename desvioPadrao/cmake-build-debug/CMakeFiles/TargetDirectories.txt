@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/desvioPadrao/cmake-build-debug/CMakeFiles/desvioPadrao.dir
+C:/Users/laion/CLionProjects/desvioPadrao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/desvioPadrao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
