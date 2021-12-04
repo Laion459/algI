@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\ultimaParteEmC.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ultimaParteEmC.dir/objects.a @CMakeFiles\ultimaParteEmC.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ultimaParteEmC.dir/objects.a -Wl,--no-whole-archive -o ultimaParteEmC.exe -Wl,--out-implib,libultimaParteEmC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ultimaParteEmC.dir\linklibs.rsp

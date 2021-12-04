@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/ultimaParteEmC/testesObjetosEmC.cpp
+testesObjetosEmC.h
+C:/Users/laion/CLionProjects/ultimaParteEmC/testesObjetosEmC.h
+
+C:/Users/laion/CLionProjects/ultimaParteEmC/testesObjetosEmC.h
+iostream
+-
+cstring
+-
+

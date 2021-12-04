@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/ultimaParteEmC/cmake-build-debug/CMakeFiles/ultimaParteEmC.dir
+C:/Users/laion/CLionProjects/ultimaParteEmC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/ultimaParteEmC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
