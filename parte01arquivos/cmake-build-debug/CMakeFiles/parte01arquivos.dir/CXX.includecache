@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/parte01arquivos/main.cpp
+test_my_math.h
+C:/Users/laion/CLionProjects/parte01arquivos/test_my_math.h
+
+C:/Users/laion/CLionProjects/parte01arquivos/my_math_test.cpp
+my_math_test.h
+C:/Users/laion/CLionProjects/parte01arquivos/my_math_test.h
+
+C:/Users/laion/CLionProjects/parte01arquivos/my_math_test.h
+
+C:/Users/laion/CLionProjects/parte01arquivos/test_my_math.cpp
+test_my_math.h
+C:/Users/laion/CLionProjects/parte01arquivos/test_my_math.h
+
+C:/Users/laion/CLionProjects/parte01arquivos/test_my_math.h
+my_math_test.h
+C:/Users/laion/CLionProjects/parte01arquivos/my_math_test.h
+iostream
+-
+
