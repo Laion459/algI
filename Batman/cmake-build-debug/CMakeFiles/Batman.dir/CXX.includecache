@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/Batman/batmanAprendiendoAlgoritmosI.h
+iostream
+-
+
+C:/Users/laion/CLionProjects/Batman/main.cpp
+batmanAprendiendoAlgoritmosI.h
+C:/Users/laion/CLionProjects/Batman/batmanAprendiendoAlgoritmosI.h
+
