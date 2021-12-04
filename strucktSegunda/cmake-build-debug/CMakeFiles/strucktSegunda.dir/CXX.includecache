@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/strucktSegunda/Employee.cpp
+Employee.h
+C:/Users/laion/CLionProjects/strucktSegunda/Employee.h
+
+C:/Users/laion/CLionProjects/strucktSegunda/Employee.h
+string
+-
+iostream
+-
+
+C:/Users/laion/CLionProjects/strucktSegunda/main.cpp
+Employee.h
+C:/Users/laion/CLionProjects/strucktSegunda/Employee.h
+
+C:/Users/laion/CLionProjects/strucktSegunda/testAll.cpp
+testAll.h
+C:/Users/laion/CLionProjects/strucktSegunda/testAll.h
+
+C:/Users/laion/CLionProjects/strucktSegunda/testAll.h
+Employee.h
+C:/Users/laion/CLionProjects/strucktSegunda/Employee.h
+
