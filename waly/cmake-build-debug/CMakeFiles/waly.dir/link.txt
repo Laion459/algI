@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\waly.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\waly.dir/objects.a @CMakeFiles\waly.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\waly.dir/objects.a -Wl,--no-whole-archive -o waly.exe -Wl,--out-implib,libwaly.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\waly.dir\linklibs.rsp

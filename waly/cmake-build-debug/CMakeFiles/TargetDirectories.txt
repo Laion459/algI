@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/waly/cmake-build-debug/CMakeFiles/waly.dir
+C:/Users/laion/CLionProjects/waly/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/waly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
